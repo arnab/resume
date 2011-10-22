@@ -1,0 +1,62 @@
+Arnab Deka, Software Development Engineer
+arnab.deka@gmail.com | (206) - 617-7605 | arnab-deka.com
+
+Also available at http://arnab.github.com/resume/.
+
+Summary
+
+Six years of delivering quality software in diverse environments like Amazon.com, AWS and Goldman Sachs. Extensive experience in Ruby, including fours years of Rails.
+
+Skills
+
+  Versatile Engineer: Extensive experience and balanced skills in user-interfaces, web services and distributed computing in fast and intense environments. Strive to understand the needs behind customer's requests and explore alternatives.
+
+  Focus on Quality: Focus on code quality and intuitive about potential usability/operational issues. Embrace and evangelize BDD/TDD while building software to solve business needs.
+
+  Leadership & Collaboration: Self-starter with a passion to adapt and evangelize new technologies. Track record of successfully executing both team and individual projects. Love to collaborate and have an aptitude for mentoring.
+
+Technical
+  Ruby, Ruby on Rails, Java, MySQL / Oracle / Sybase
+  HTML / HTML5, CSS, Javascript / CoffeeScript, jQuery
+  AWS, Git / CVS / Perforce
+  Linux / Unix, Mac OS X
+
+Experience
+
+Amazon Web Services (AWS) - Software Development Engineer - 2010-present
+
+  Built a Ruby/Rails platform for the AWS website and started re-architecting components of the site to use this platform. Influenced the team to use Ruby where appropriate and helped recruiting a great team of engineers.
+
+    Lead the design and development of AWS website's contextual and faceted search component. Combined disjoint datasets in a generic way making new dataset additions easy. Widely appreciated by customers of all sizes and within AWS and got featured in the AWS blog.
+Re-architected the community-oriented components of the AWS website to make them much more customer friendly and usable.
+
+    Developed a generic catalog framework that is re-usable across multiple areas ( EC2 AMIs , Developer Tools , Sample Code etc.) and started the process of moving the catalogs to the new framework. Drove graphic design and UX discussions with design-teams. Experimented with pair programming and was perceived to be fast and very productive by the team. Code and test's quality was eye-opening for the team.
+
+Amazon.com - Software Development Engineer - Supply Chain - 2008-2010
+
+  Started my career in Amazon as an SDE I and got promoted within a year. Helped solve complex business problems in supply chain by working with analysts, building software solutions and a varied mix of tools to make sense of the massive amount of data.
+
+    Built a prototype to generate the Amazon.com S&OP forecast with a linear-programming model. Drove adoption by demonstrating that it produced better or in-line results compared to the manual S&OP (which takes 80 hrs/week of analysts).
+    Drove adoption of automated-testing and BDD with tools like rspec/cucumber, while being the junior-most engineer. Evangelized other software engineering tools like git, jQuery etc.
+    Developed a tool to analyze the amount of wasteful cross-dock happening in Amazon.com fulfillment centers. Designed it applying a binary-search technique to avoid inefficiencies in an API that made the tool 65% faster with no loss of accuracy.
+    Developed a RESTful service to get Amazon.com fulfillment network's product-allocation configuration, previously a 2000+ line yaml maintained by SDEs. Also developed a webapp for analysts to make self-service, on-demand configuration changes. Reduced 4 hours/week of SDE operational work.
+    Lead the development of a critical reporting webapp that showed alarming trends in terms of labor requirements in Amazon warehouses to cope with the US holiday-season demand.
+    Wrote a tool to mine various Amazon data sources to find alternate inventory we could use to fulfill those last-minute "Santa orders". Coped with a very tight deadline and a lot of ambiguity.
+    Wrote my first Rails app, in 2008, to hook into a backend system (that prioritizes/schedules inbound trucks into Amazon warehouses) to allow rare but critical manual overrides to the system's scheduling decisions. Estimated to save 120 hours of analyst and SDE time in Q4'2008.
+    Wrote an in-house analytics tool to parse apache access logs to help us know more about our customers.
+
+Infosys - Programmer Analyst - 2004-2007
+
+  Started off as a junior programmer in the Goldman Sachs account (in Bangalore and NYC) and went on to build software that caught the customer's eye, leading to major development efforts collaborating with client-side engineers.
+
+    Designed and implemented a system (backend services, batch-processes, webapp) to handle a new SEC regulation for Short Sales. Acknowledged as a flexible and elegant solution to a challenging problem (complicated regulatory rules, real-time interaction with outside systems over EMS messaging). Learnt automated-testing during the project, finished with 93% coverage.
+    Re-architected the Canadian and Lat-Am Clearance system with a team of 8 diverse engineers. Lead the overnight batch part of the project. Learnt and practised agile development style.
+    Designed and implemented the CNS (DTC) Bulk Settlements component.
+    Automated the NSCC Recap process at Goldman - freeing up a day per month of analysts.
+    Wrote a tool to diff the team's live DB schema/triggers/stored-procs with source-code definitions. This helped the team avoid occasional, but critical accidents in production, much appreciated by the client.
+    Kept Goldman's American Clearance systems running with a team distributed over 3 continents (support/maintenance/enhancements).
+
+Education
+
+  National Institute of Technology, Calicut, India
+  B. Tech., Civil Engineering — 6th in a class of 59, 2001-2004
