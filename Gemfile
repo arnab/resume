@@ -1,4 +1,5 @@
 source 'http://rubygems.org'
 
-gem "haml"
 gem "hpricot"
+gem "haml"
+gem "ttilley-fssm" # to watch for haml/sass changes
