@@ -1,6 +1,6 @@
 # Arnab's Resume
 
-This repo contains the content, styling and small pieces of code needed to generate [my resume](http://arnab-deka.com/posts/resume/) 
+This repo contains the content, styling and small pieces of code needed to generate [my resume](http://arnab-deka.com/resume/) 
 
 ## Getting Started
 
